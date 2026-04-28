@@ -1,42 +1,44 @@
 # Hi, I'm Rogério Rocha 👋
 
-### IT Support Technician | Helpdesk | System Support
+### IT Support Specialist | Helpdesk (N1/N2) | Systems & Infrastructure Enthusiast
 
-IT Support professional with **1 year and 8 months of hands-on experience** in technical support, troubleshooting, and user assistance.
+IT Support professional with **1 year and 8 months of hands-on experience** in technical support, troubleshooting, and end-user assistance.
 
-Based in Toulouse, France 🇫🇷, I focus on delivering reliable IT support while continuously improving my technical foundation through real infrastructure practice.
+Based in Toulouse, France 🇫🇷, I work in IT Support (N1/N2) environments while continuously improving my technical skills through real infrastructure practice in a personal homelab.
 
 ---
 
-## 💼 What I do
+## 💼 What I do (IT Support)
 
 - IT Support (N1 / N2)
-- User & device troubleshooting (Windows / Linux)
-- Microsoft 365 support
-- Active Directory user management
+- User & workstation troubleshooting (Windows / Linux)
+- Microsoft 365 support (basic administration)
+- Active Directory (users, groups, permissions)
 - Ticketing systems (incident & request handling)
 - Network troubleshooting (DNS, DHCP, connectivity issues)
-- Remote support tools (RDP, TeamViewer, etc.)
+- Remote support (RDP, TeamViewer, etc.)
+- Hardware & peripheral diagnostics
 
 ---
 
-## 🖥️ HomeLab (IT Support Practice)
+## 🖥️ Systems & Homelab Practice
 
-I built a personal homelab to simulate real-world IT support environments and improve my troubleshooting skills.
+I maintain a personal infrastructure lab to simulate real-world IT environments and improve troubleshooting skills beyond daily support tasks.
 
 ### Infrastructure
 - HPE ProLiant ML350 Gen9
-- Proxmox VE 8.4
-- Windows Server / Linux (Debian)
-- NAS storage (SMB/CIFS)
+- Proxmox VE 8.4 (virtualization platform)
+- Windows Server / Debian Linux
+- NAS storage (SMB/CIFS integration)
 
-### Practiced scenarios
-- Active Directory user management
-- Password resets & account issues
-- DNS / DHCP troubleshooting
-- Ticket simulation workflows
-- Linux & Windows system support
-- Virtual machines & container management
+### Practical experience in lab
+- Virtual machine deployment & management
+- Snapshots & backup strategies (VZDump / NAS)
+- Active Directory lab scenarios
+- DNS & DHCP troubleshooting
+- Network segmentation (VLAN concepts)
+- Firewall & routing (OPNsense)
+- Self-hosted services (Vaultwarden, Plex, etc.)
 
 🔗 [View HomeLab Repository](LINK)
 
@@ -44,7 +46,7 @@ I built a personal homelab to simulate real-world IT support environments and im
 
 ## 🎫 IT Support Simulator
 
-Interactive platform designed for Helpdesk / N1 / N2 training.
+Interactive platform designed to simulate real Helpdesk / N1 / N2 scenarios.
 
 Features:
 - Ticket simulation system
@@ -59,40 +61,40 @@ Features:
 
 ## 🛠 Tech Stack
 
-**IT Support & Systems**
-- Windows 10/11
-- Windows Server
-- Active Directory
+### IT Support (Professional)
+- Windows 10 / 11
 - Microsoft 365
+- Active Directory
 - GLPI / Ticketing Systems
 - DNS / DHCP
 - Remote Desktop / Support Tools
 
-**Infrastructure (Lab)**
+### Systems & Infrastructure (Lab)
 - Proxmox VE
 - Linux (Debian)
-- Docker (basic usage)
+- Windows Server (lab environment)
+- OPNsense (firewall/router concepts)
 - NAS / SMB storage
 
-**Automation & Scripting**
-- Bash
+### Scripting & Automation
 - PowerShell
+- Bash
 - Python (basic)
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Focus
 
-Currently focused on growing within IT Support roles in France, aiming to strengthen expertise in:
+Currently focused on growing within IT Support roles in France, with strong interest in:
 
 - Enterprise IT Support environments
 - Microsoft ecosystem (AD / M365)
-- System administration foundations
 - Networking fundamentals
+- Transition toward System Administration
 
 ---
 
 ## 🌍 Connect with me
 
-- LinkedIn: (your link)
-- Email: (your email)
+- LinkedIn: https://www.linkedin.com/in/rogeriorch77/
+- Email: rogeriorocha.dev@gmail.com
