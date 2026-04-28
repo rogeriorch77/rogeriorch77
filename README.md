@@ -1,5 +1,8 @@
 # Hey hey, I'm Rogério Rocha 👋
 
+🌐 IT Support Simulator → https://rogeriorch77.github.io/it-support-simulator/index.html  
+💼 LinkedIn → https://www.linkedin.com/in/rogeriorch77/
+
 IT Support Specialist (N1/N2) with hands-on experience in technical support, troubleshooting, and real infrastructure environments.
 
 I actively build and manage a personal Homelab to simulate real-world IT environments and improve my systems and networking skills.
