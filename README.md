@@ -1,4 +1,4 @@
-# Hi, I'm Rogério Rocha 👋
+# Hey hey, I'm Rogério Rocha 👋
 
 IT Support Specialist (N1/N2) with hands-on experience in technical support, troubleshooting, and real infrastructure environments.
 
