@@ -22,4 +22,12 @@ I actively build and manage a personal Homelab to simulate real-world IT environ
 ## 🛠 Focus
 IT Support • Microsoft 365 • Active Directory • Networking • Infrastructure
 
+## 🎯 Career Goal
+
+Currently preparing for:
+
+✔ IT Support roles in France  
+✔ Junior SysAdmin opportunities  
+✔ Infrastructure / Cloud transition
+
 📍 Toulouse, France
