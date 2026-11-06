@@ -50,6 +50,8 @@ A documented product concept focused on private contact identity and practical c
 
 **Infrastructure:** Linux · Proxmox VE · Windows Server · Networking · Docker · Nginx
 
+**Field IT support:** On-site / Smart Hands · Network equipment installation · Rack & stack · LAN/fiber patching · Console access · SD-WAN support
+
 **Development:** JavaScript · Go · HTML/CSS · PostgreSQL · Git · GitHub
 
 **Work style:** Practical labs · Documentation · Troubleshooting · Testing · Security-minded changes
