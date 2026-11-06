@@ -1,22 +1,15 @@
 <div align="center">
 
-### Rogério Rocha · Practical tools, systems & software
-
-# 🖥️ IT Support Simulator
-
-**Hands-on IT support training for real-world N1/N2 troubleshooting.**
-
 <a href="https://rogeriorch77.github.io/it-support-simulator/">
-  <img src="https://raw.githubusercontent.com/rogeriorch77/it-support-simulator/main/img/landing_page.webp" width="900" alt="Official IT Support Simulator public landing page, visible before signing in" />
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/itss-banner-mobile.svg" />
+  <img src="assets/itss-banner-desktop.svg" width="100%" alt="IT Support Simulator: hands-on N1/N2 support training with calls, tickets and simulated CMD commands. Promotional artwork based on the project visual identity." />
+</picture>
 </a>
 
-<sub>Official public landing-page screenshot · Interface in French 🇫🇷</sub>
+<sub>Promotional illustration · See [real interface screenshots](https://github.com/rogeriorch77/it-support-simulator#screenshots)</sub>
 
-<br/>
-
-**[▶ Try the live simulator](https://rogeriorch77.github.io/it-support-simulator/)** &nbsp;·&nbsp; **[View source code](https://github.com/rogeriorch77/it-support-simulator)** &nbsp;·&nbsp; **[Explore screenshots](https://github.com/rogeriorch77/it-support-simulator#screenshots)**
-
-**13** support-call scenarios &nbsp;·&nbsp; **80** help-desk tickets &nbsp;·&nbsp; **25+** CMD commands
+**[▶ Try the live simulator](https://rogeriorch77.github.io/it-support-simulator/)** &nbsp;·&nbsp; **[View source code](https://github.com/rogeriorch77/it-support-simulator)**
 
 </div>
 

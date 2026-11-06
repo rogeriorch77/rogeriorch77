@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="heroTitle heroDesc">
+<title id="heroTitle">IT Support Simulator — Hands-on support training</title>
+<desc id="heroDesc">Promotional illustration using the IT Support Simulator product colors. 13 support-call scenarios, 80 help-desk tickets, and 25+ CMD commands. The module preview is an illustration, not a screenshot.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1017"/><stop offset="0.52" stop-color="#080b0f"/><stop offset="1" stop-color="#122239"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#1b8d74" stop-opacity=".37"/><stop offset=".65" stop-color="#1b8d74" stop-opacity=".11"/><stop offset="1" stop-color="#1b8d74" stop-opacity="0"/></radialGradient>
+<linearGradient id="device" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1b2938"/><stop offset="1" stop-color="#0b111b"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#3b5a73" fill-opacity=".32"/></pattern>
+<clipPath id="round"><rect x="1" y="1" width="1198" height="538" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1200" height="540" fill="url(#bg)"/>
+<rect width="1200" height="540" fill="url(#dots)" opacity=".52"/>
+<ellipse cx="1020" cy="200" rx="440" ry="330" fill="url(#halo)"/>
+<path d="M0 0H1200M0 539H1200" stroke="#314354" stroke-width="2"/>
+<rect x="52" y="43" width="37" height="37" rx="10" fill="#183c63" stroke="#3971ab"/>
+<text x="70.5" y="67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="800" fill="#effaff">IT</text>
+<text x="106" y="64" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.6" font-weight="700" fill="#98b0c4">INTERACTIVE TECH TRAINING</text>
+<rect x="53" y="111" width="52" height="5" rx="2.5" fill="#39d353"/>
+<text x="49" y="218" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" letter-spacing="-3" fill="#eff8fc">IT SUPPORT</text>
+<text x="49" y="304" font-family="Arial,Helvetica,sans-serif" font-size="87" font-weight="800" letter-spacing="-3" fill="#39d353">SIMULATOR</text>
+<text x="55" y="356" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="600" fill="#d9e7f1">Learn by troubleshooting.</text>
+<text x="56" y="391" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#9db3c3">N1/N2 calls, tickets and interactive terminal practice.</text>
+<rect x="54" y="428" width="191" height="45" rx="10" fill="#122d25" stroke="#367c59"/>
+<circle cx="72" cy="450.5" r="5" fill="#39d353"/>
+<text x="84" y="456" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#c7f5d4">13 CALL SCENARIOS</text>
+<rect x="257" y="428" width="139" height="45" rx="10" fill="#14263d" stroke="#356d9a"/>
+<circle cx="274" cy="450.5" r="5" fill="#58c0e0"/>
+<text x="287" y="456" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#cdeaf9">80 TICKETS</text>
+<rect x="408" y="428" width="174" height="45" rx="10" fill="#261e39" stroke="#7051a8"/>
+<circle cx="426" cy="450.5" r="5" fill="#9b72f5"/>
+<text x="439" y="456" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#e9ddff">25+ CMD TOOLS</text>
+<text x="55" y="516" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#718a9d">FRENCH INTERFACE   ·   WEB APP</text>
+<!-- illustrative mobile application surface, not a screenshot -->
+<rect x="820" y="28" width="318" height="575" rx="43" fill="#080b11" stroke="#506f89" stroke-width="3"/>
+<rect x="833" y="45" width="292" height="542" rx="33" fill="url(#device)"/>
+<rect x="930" y="54" width="96" height="15" rx="7.5" fill="#080b11"/>
+<circle cx="1043" cy="61" r="4" fill="#1e3a50"/>
+<rect x="849" y="101" width="38" height="35" rx="9" fill="#194379"/>
+<text x="868" y="123" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="12" fill="#f2f8ff">IT</text>
+<text x="899" y="115" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="800" fill="#eef6fb">Support Simulator</text>
+<text x="899" y="131" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#93a9b9">TRAINING MODULES</text>
+<rect x="849" y="154" width="260" height="77" rx="13" fill="#152a26" stroke="#2d7753"/>
+<rect x="864" y="170" width="32" height="32" rx="9" fill="#245340"/>
+<path d="M873 182q1-7 6-7h5q5 0 6 7v3q-1 3-4 3h-2" fill="none" stroke="#6ff0a0" stroke-width="2.5" stroke-linecap="round"/>
+<text x="910" y="181" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#eaf5ef">Support calls</text>
+<text x="910" y="203" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a5c6af">13 guided scenarios</text>
+<rect x="849" y="244" width="260" height="77" rx="13" fill="#13243a" stroke="#36658c"/>
+<rect x="864" y="261" width="32" height="32" rx="9" fill="#244566"/>
+<path d="M872 268h16v18h-16zm4 6h8m-8 5h6" fill="none" stroke="#7ccefa" stroke-width="2" stroke-linecap="round"/>
+<text x="910" y="272" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#eaf5ff">Help-desk tickets</text>
+<text x="910" y="294" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#9bbbd1">80 practice cases</text>
+<rect x="849" y="334" width="260" height="77" rx="13" fill="#241d37" stroke="#6b4a9a"/>
+<rect x="864" y="351" width="32" height="32" rx="9" fill="#453467"/>
+<path d="M873 358l6 6-6 6m9 0h7" fill="none" stroke="#c1a4ff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="910" y="362" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#f2eaff">CMD terminal</text>
+<text x="910" y="384" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#bbaacf">25+ commands</text>
+<rect x="849" y="426" width="260" height="43" rx="11" fill="#2aab50"/>
+<text x="979" y="453" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="800" fill="#08140d">START PRACTICING  ↗</text>
+</g>
+<rect x="1" y="1" width="1198" height="538" rx="22" fill="none" stroke="#2c4153" stroke-width="2"/>
+</svg>
