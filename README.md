@@ -30,25 +30,32 @@ The public demo reflects the published version. Avatar and first-visit onboardin
 
 ---
 
-<blockquote>
-  <p><strong>HANDS-ON AREAS</strong></p>
-  <p>
-    🟩 Linux &amp; server operations &nbsp;&nbsp; · &nbsp;&nbsp;
-    🟦 Windows Server &amp; Active Directory &nbsp;&nbsp; · &nbsp;&nbsp;
-    🟪 Networking &amp; virtualization
-  </p>
-  <p>
-    🟨 Web apps &amp; databases &nbsp;&nbsp; · &nbsp;&nbsp;
-    🟧 Troubleshooting &amp; testing
-  </p>
-  <hr />
-  <p><strong>WORK PRINCIPLES</strong></p>
-  <p>
-    <strong>Make it useful.</strong> &nbsp;&nbsp; · &nbsp;&nbsp;
-    <strong>Make it testable.</strong> &nbsp;&nbsp; · &nbsp;&nbsp;
-    <strong>Document what matters.</strong>
-  </p>
-</blockquote>
+<div align="left">
+
+<h3>HANDS-ON AREAS</h3>
+
+<p>
+  🟩 <strong>Linux &amp; server operations</strong> &nbsp;·&nbsp;
+  🟦 <strong>Windows Server &amp; Active Directory</strong> &nbsp;·&nbsp;
+  🟪 <strong>Networking &amp; virtualization</strong>
+</p>
+<p>
+  🟨 <strong>Web apps &amp; databases</strong> &nbsp;·&nbsp;
+  🟧 <strong>Troubleshooting &amp; testing</strong>
+</p>
+
+<hr />
+
+<h3>WORK PRINCIPLES</h3>
+
+<p>
+  <strong>Make it useful.</strong> &nbsp;·&nbsp;
+  <strong>Make it testable.</strong> &nbsp;·&nbsp;
+  <strong>Document what matters.</strong>
+</p>
+
+</div>
+
 ---
 
 ### Other work
