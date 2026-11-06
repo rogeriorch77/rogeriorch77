@@ -1,12 +1,20 @@
 <div align="center">
 
+### Rogério Rocha · Practical tools, systems & software
+
+# 🖥️ IT Support Simulator
+
+**Hands-on IT support training for real-world N1/N2 troubleshooting.**
+
 <a href="https://rogeriorch77.github.io/it-support-simulator/">
-  <img src="assets/itss-feature.svg" width="100%" alt="IT Support Simulator — featured open-source project. Illustrative interface graphic." />
+  <img src="https://raw.githubusercontent.com/rogeriorch77/it-support-simulator/main/img/landing_page.webp" width="900" alt="Official IT Support Simulator public landing page, visible before signing in" />
 </a>
+
+<sub>Official public landing-page screenshot · Interface in French 🇫🇷</sub>
 
 <br/>
 
-### [↗ Launch live demo](https://rogeriorch77.github.io/it-support-simulator/) &nbsp;·&nbsp; [View source code](https://github.com/rogeriorch77/it-support-simulator) &nbsp;·&nbsp; [Real screenshots](https://github.com/rogeriorch77/it-support-simulator#screenshots)
+**[▶ Try the live simulator](https://rogeriorch77.github.io/it-support-simulator/)** &nbsp;·&nbsp; **[View source code](https://github.com/rogeriorch77/it-support-simulator)** &nbsp;·&nbsp; **[Explore screenshots](https://github.com/rogeriorch77/it-support-simulator#screenshots)**
 
 **13** support-call scenarios &nbsp;·&nbsp; **80** help-desk tickets &nbsp;·&nbsp; **25+** CMD commands
 
@@ -14,22 +22,26 @@
 
 ---
 
-### Built to learn by doing
+### Learn by troubleshooting
 
-**IT Support Simulator** is an interactive learning platform for French-speaking N1/N2 IT support learners. It includes practical exercises you can try directly in your browser.
+**IT Support Simulator** is an interactive platform for French-speaking learners. Practice support calls, investigate tickets, run simulated Windows terminal commands, take timed quizzes and prepare for technical interviews.
 
-- **Support calls** — guided diagnostics and real-world troubleshooting decisions.
-- **Tickets & terminal** — service-desk workflows and simulated Windows CMD practice.
-- **Quizzes, knowledge base & interviews** — hands-on preparation and technical references.
-
-**Stack:** HTML · CSS · JavaScript · Supabase Auth · PostgreSQL · GitHub Pages
+**Built with:** HTML · CSS · JavaScript · Supabase Auth · PostgreSQL · GitHub Pages
 
 <details>
-<summary>Current development status</summary>
+<summary>Development status</summary>
 
-The published demo represents the released public version. The v1.1 avatar and first-visit onboarding work remains under development in [draft PR #2](https://github.com/rogeriorch77/it-support-simulator/pull/2). The feature graphic above is illustrative; use the real screenshots link to see the current interface.
+The public demo reflects the published version. Avatar and first-visit onboarding work for v1.1 remains under development in [draft PR #2](https://github.com/rogeriorch77/it-support-simulator/pull/2).
 
 </details>
+
+---
+
+<div align="center">
+
+<img src="assets/hands-on-principles.svg" width="100%" alt="Hands-on Areas: Linux and server operations; Networking and virtualization; Web apps and databases; Troubleshooting and testing. Work Principles: Make it useful. Make it testable. Document what matters." />
+
+</div>
 
 ---
 
