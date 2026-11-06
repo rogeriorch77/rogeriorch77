@@ -63,9 +63,6 @@ The public demo reflects the published version. Avatar and first-visit onboardin
 **🏠 [HomeLab — Systems & infrastructure](https://github.com/rogeriorch77/homelab)**  
 Proxmox VE, Debian LXC, NAS-backed backups and documentation of hands-on infrastructure exercises.
 
-**💬 [ZumZum — Messaging platform concept](https://github.com/rogeriorch77/zumzum)**  
-Planning and documentation for a privacy-focused messaging concept. Not a deployed application.
-
 ---
 
 ### Tools & practical experience
