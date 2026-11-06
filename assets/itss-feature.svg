@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="470" viewBox="0 0 1120 470" role="img" aria-labelledby="heading explanation">
+  <title id="heading">IT Support Simulator — Featured project</title>
+  <desc id="explanation">Stylized introductory graphic for the IT Support Simulator; an illustrative interface, not a live screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101924"/><stop offset="1" stop-color="#0b101a"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#2fd6b5" stop-opacity=".20"/><stop offset="1" stop-color="#2fd6b5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#172331"/><stop offset="1" stop-color="#101824"/></linearGradient>
+    <clipPath id="frameClip"><rect x="652" y="76" width="430" height="340" rx="15"/></clipPath>
+  </defs>
+  <rect width="1120" height="470" rx="16" fill="url(#bg)"/>
+  <circle cx="960" cy="90" r="330" fill="url(#glow)"/>
+  <path d="M0 1H1120M0 469H1120" stroke="#2a3b4b" stroke-opacity=".8"/>
+  <rect x="35" y="34" width="9" height="9" rx="2" fill="#49dbb7"/>
+  <text x="56" y="43" font-family="Arial,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#9eb4c3" letter-spacing="2">ROGÉRIO ROCHA</text>
+  <path d="M238 39H456" stroke="#355060" stroke-width="1"/>
+  <text x="35" y="108" font-family="Arial,Segoe UI,sans-serif" font-size="14" font-weight="700" fill="#48dcb7" letter-spacing="3.3">OPEN SOURCE / HANDS-ON LEARNING</text>
+  <text x="30" y="197" font-family="Arial,Segoe UI,sans-serif" font-size="75" font-weight="800" letter-spacing="-2" fill="#f2f7fa">IT Support</text>
+  <text x="30" y="278" font-family="Arial,Segoe UI,sans-serif" font-size="78" font-weight="800" letter-spacing="-2" fill="#4fe0bc">Simulator.</text>
+  <text x="35" y="327" font-family="Arial,Segoe UI,sans-serif" font-size="26" font-weight="600" fill="#e0ebef">Learn by troubleshooting.</text>
+  <text x="35" y="362" font-family="Arial,Segoe UI,sans-serif" font-size="18" fill="#a6b6c3">Hands-on N1/N2 support training with</text>
+  <text x="35" y="388" font-family="Arial,Segoe UI,sans-serif" font-size="18" fill="#a6b6c3">interactive tickets, calls, and terminal labs.</text>
+  <line x1="35" y1="425" x2="560" y2="425" stroke="#294351"/>
+  <text x="35" y="450" font-family="Arial,Segoe UI,sans-serif" font-size="15" fill="#718a9a">HTML / CSS / JavaScript</text>
+  <text x="286" y="450" font-family="Arial,Segoe UI,sans-serif" font-size="15" fill="#718a9a">•</text>
+  <text x="311" y="450" font-family="Arial,Segoe UI,sans-serif" font-size="15" fill="#718a9a">Supabase / PostgreSQL</text>
+  <rect x="652" y="76" width="430" height="340" rx="15" fill="url(#panel)" stroke="#345164" stroke-width="2"/>
+  <g clip-path="url(#frameClip)">
+    <rect x="652" y="76" width="430" height="44" fill="#192838"/>
+    <circle cx="677" cy="99" r="5" fill="#e67e80"/>
+    <circle cx="695" cy="99" r="5" fill="#e1bc72"/>
+    <circle cx="713" cy="99" r="5" fill="#56cb9f"/>
+    <rect x="749" y="87" width="214" height="24" rx="6" fill="#101d2b"/>
+    <text x="767" y="103" font-family="Arial,sans-serif" font-size="12" fill="#829cae">it-support / dashboard</text>
+    <rect x="652" y="120" width="64" height="296" fill="#0d1723"/>
+    <text x="668" y="149" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#4fe0bc">IT</text>
+    <text x="669" y="173" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#e1ecf3">SS</text>
+    <rect x="663" y="201" width="43" height="34" rx="7" fill="#1d554d"/>
+    <rect x="676" y="210" width="17" height="3" rx="1.5" fill="#60d8b6"/><rect x="676" y="219" width="17" height="3" rx="1.5" fill="#60d8b6"/>
+    <rect x="677" y="263" width="13" height="4" rx="2" fill="#59778b"/><rect x="677" y="279" width="13" height="4" rx="2" fill="#59778b"/>
+    <rect x="677" y="310" width="13" height="4" rx="2" fill="#59778b"/>
+    <text x="742" y="154" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.3" fill="#4fe0bc">TECHNICAL TRAINING</text>
+    <text x="742" y="187" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#e6f0f4">Your next challenge</text>
+    <text x="742" y="207" font-family="Arial,sans-serif" font-size="13" fill="#8fa5b5">Choose a scenario. Practice solving it.</text>
+    <rect x="740" y="231" width="152" height="115" rx="10" fill="#1b3040" stroke="#355369"/>
+    <rect x="905" y="231" width="152" height="115" rx="10" fill="#1b3040" stroke="#355369"/>
+    <circle cx="764" cy="257" r="11" fill="#29594f"/><text x="757" y="261" font-family="Arial,sans-serif" font-size="12" fill="#60ebc5">☎</text>
+    <rect x="927" y="246" width="21" height="19" rx="4" fill="#29594f"/><path d="M933 251h9m-9 5h9m-9 5h5" stroke="#60ebc5" stroke-width="1.3"/>
+    <text x="753" y="290" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#e6f0f4">Calls</text>
+    <text x="918" y="290" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#e6f0f4">Tickets</text>
+    <text x="753" y="311" font-family="Arial,sans-serif" font-size="13" fill="#90a9b8">13 scenarios</text>
+    <text x="918" y="311" font-family="Arial,sans-serif" font-size="13" fill="#90a9b8">80 tickets</text>
+    <path d="M753 330h28m137 0h28" stroke="#4dddbb" stroke-width="2"/>
+    <text x="743" y="376" font-family="Arial,sans-serif" font-size="12" fill="#95aabd">SKILLS IN PRACTICE</text>
+    <rect x="742" y="391" width="311" height="5" rx="2.5" fill="#2b4050"/>
+    <rect x="742" y="391" width="188" height="5" rx="2.5" fill="#4fe0bc"/>
+  </g>
+  <text x="1082" y="441" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#657e8d">ILLUSTRATIVE INTERFACE GRAPHIC</text>
+</svg>
