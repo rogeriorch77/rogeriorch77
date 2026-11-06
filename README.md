@@ -30,15 +30,30 @@ The public demo reflects the published version. Avatar and first-visit onboardin
 
 ---
 
-**HANDS-ON AREAS**
-
-🟩 **Linux & server operations** &nbsp;·&nbsp; 🟦 **Windows Server & Active Directory** &nbsp;·&nbsp; 🟪 **Networking & virtualization**  
-🟨 **Web apps & databases** &nbsp;·&nbsp; 🟧 **Troubleshooting & testing**
-
-**WORK PRINCIPLES**
-
-**Make it useful.** &nbsp;·&nbsp; **Make it testable.** &nbsp;·&nbsp; **Document what matters.**
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="60%">HANDS-ON AREAS</th>
+      <th align="left" width="40%">WORK PRINCIPLES</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <p>🟩 &nbsp; Linux &amp; server operations</p>
+        <p>🟦 &nbsp; Windows Server &amp; Active Directory</p>
+        <p>🟪 &nbsp; Networking &amp; virtualization</p>
+        <p>🟨 &nbsp; Web apps &amp; databases</p>
+        <p>🟧 &nbsp; Troubleshooting &amp; testing</p>
+      </td>
+      <td valign="top">
+        <p><strong>Make it useful.</strong></p>
+        <p><strong>Make it testable.</strong></p>
+        <p><strong>Document what matters.</strong></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ### Other work
